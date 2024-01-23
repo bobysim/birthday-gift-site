@@ -77,6 +77,10 @@ body {
     height: 200px;
 }
 
+#gift-img-cheers:hover{
+    background-image: url(cheers.gif);
+}
+
 #footer {
     width: 400px;
     margin: 40px auto 20px auto;
